@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ryan Byun"
-author_profile: false
+title: ""
+author_profile: True
 redirect_from: 
   - /about/
   - /about.html
